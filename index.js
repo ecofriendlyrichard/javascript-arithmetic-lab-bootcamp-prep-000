@@ -1,4 +1,5 @@
-/*it('add(a, b) adds two numbers and returns the result', function() {
+/*
+it('add(a, b) adds two numbers and returns the result', function() {
   expect(add(a, b)).toEqual(a + b)
 })
 
@@ -44,7 +45,9 @@ describe('preserveDecimal(n)', function() {
   it('returns NaN as appropriate', function() {
     expect(isNaN(preserveDecimal('sldkjflksjf'))).toEqual(true)
   })
-})*/
+})
+
+*/
 
 
 function add(a,b){
